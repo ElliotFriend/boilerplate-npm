@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Elliot J. Voris"
+	"author": "Elliot J. Voris",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
