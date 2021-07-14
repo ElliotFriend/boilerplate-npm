@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Elliot J. Voris",
 	"description": "Here's a package that will knock your socks off!",
+	"keywords": [
+		"I", "Made", "This", "Package", "For", "freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
