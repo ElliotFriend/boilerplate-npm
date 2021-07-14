@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"author": "Elliot J. Voris",
 	"description": "Here's a package that will knock your socks off!",
 	"keywords": [
